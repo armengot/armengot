@@ -1,10 +1,11 @@
 ### Marcelo Armengot
 <a href="https://twitter.com/armengotmarcelo">
-  <img align="left" alt="Marcelo Armengot | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Marcelo Armengot | Twitter" width="18px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/marcelo-armengot/">
-  <img align="left" alt="Marcelo Armengot's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Marcelo Armengot's LinkedIN" width="18px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+
 <!--
 **armengot/armengot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
