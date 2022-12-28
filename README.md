@@ -6,7 +6,7 @@
   <img align="left" alt="Marcelo Armengot's LinkedIN" width="18px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-<hr />
+<br />
 
 #### About me
 
