@@ -17,7 +17,7 @@
 
 #### Some skills
 
-![](https://img.shields.io/badge/Python-100%25-green]
+![](https://img.shields.io/badge/Python-100%25-green)
 ![](https://img.shields.io/badge/C%2FC%2B%2B-100%25-green)
 ![https://nerdinmadrid.tumblr.com/post/667400970801692672/free-software-for-video-editing-get-your-last](https://img.shields.io/badge/GNU%2FLinux-80%25-lightgreen)
 
