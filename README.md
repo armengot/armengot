@@ -17,13 +17,13 @@
 
 #### Some skills
 
-![](https://img.shields.io/badge/Python-100%25-green)
-![](https://img.shields.io/badge/C%2FC%2B%2B-100%25-green)
-![https://nerdinmadrid.tumblr.com/post/667400970801692672/free-software-for-video-editing-get-your-last](https://img.shields.io/badge/GNU%2FLinux-80%25-lightgreen)
+<a href="https://www.python.org/downloads/release/python-3810/"><img src="https://img.shields.io/badge/Python-100%25-green](https://www.python.org/downloads/release/python-3810/"></a>
+<a href="https://en.wikipedia.org/wiki/The_C_Programming_Language"><img src="https://img.shields.io/badge/C%2FC%2B%2B-100%25-green"></a>
+<a href="https://nerdinmadrid.tumblr.com/post/667400970801692672/free-software-for-video-editing-get-your-last"><img src="https://img.shields.io/badge/GNU%2FLinux-80%25-lightgreen"></a>
 
-![https://numpy.org/doc/stable/](https://img.shields.io/badge/numpy-100%25-blue)
-![https://pandas.pydata.org/](https://img.shields.io/badge/pandas-70%25-blue)
+<a href="https://numpy.org/doc/stable/"><img src="https://img.shields.io/badge/numpy-100%25-blue"></a>
+<a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/pandas-70%25-blue"></a>
 
-![https://pytorch.org/get-started/locally/](https://img.shields.io/badge/pytorch-30%25-red)
-![https://developer.nvidia.com/cuda-downloads?target_os=Linux&target_arch=x86_64&Distribution=Ubuntu&target_version=20.04&target_type=deb_local](https://img.shields.io/badge/cuda-30%25-red)
+<a href="https://pytorch.org/get-started/locally/"><img src="https://img.shields.io/badge/pytorch-30%25-red"></a>
+<a href="https://developer.nvidia.com/cuda-downloads?target_os=Linux&target_arch=x86_64&Distribution=Ubuntu&target_version=20.04&target_type=deb_local"><img src="https://img.shields.io/badge/cuda-30%25-red"></a>
 
