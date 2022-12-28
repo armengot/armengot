@@ -17,7 +17,7 @@
 
 #### Some skills
 
-<a href="https://www.python.org/downloads/release/python-3810/"><img src="https://img.shields.io/badge/Python-100%25-green](https://www.python.org/downloads/release/python-3810/"></a>
+<a href="https://www.python.org/downloads/release/python-3810/"><img src="https://img.shields.io/badge/Python-100%25-green"></a>
 <a href="https://en.wikipedia.org/wiki/The_C_Programming_Language"><img src="https://img.shields.io/badge/C%2FC%2B%2B-100%25-green"></a>
 <a href="https://nerdinmadrid.tumblr.com/post/667400970801692672/free-software-for-video-editing-get-your-last"><img src="https://img.shields.io/badge/GNU%2FLinux-80%25-lightgreen"></a>
 
