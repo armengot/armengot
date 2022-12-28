@@ -11,10 +11,10 @@
 
 #### About me
 
- [x] 🐧 Linux lover.
- [x] 🐃 GNU/GPL believer.
- [x] 🔭 I’m currently working on computer vision projects.
- [ ] 🌱 I’m currently learning PyQt, Neural Networks (permanent learning), object tracking ...
+- [x] 🐧 Linux lover.
+- [x] 🐃 GNU/GPL believer.
+- [x] 🔭 I’m currently working on computer vision projects.
+- [ ] 🌱 I’m currently learning PyQt, Neural Networks (permanent learning), object tracking ...
 
 #### Some skills
 
