@@ -15,6 +15,10 @@
 - [x] 🚀 Currently working on computer vision projects...
 - [ ] 🔭 and learning PyQt, Neural Networks (permanent learning), object tracking ...
 
+#### Other repos
+
+See <a href="https://gitlab.com/armengot/mosaix">gitlab</a> repo with old code from my PhD first work.
+
 #### Some skills
 
 <a href="https://www.python.org/downloads/release/python-3810/"><img src="https://img.shields.io/badge/Python-100%25-green"></a>
