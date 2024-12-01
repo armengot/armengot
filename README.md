@@ -5,6 +5,12 @@
 <a href="https://www.linkedin.com/in/marcelo-armengot/">
   <img align="left" alt="Marcelo Armengot's LinkedIN" width="18px" src="linkedin.png" />
 </a>
+<a href="https://nerdinmadrid.tumblr.com/">
+  <img align="left" alt="Nerd in Madrid" width="18px" src="tumblr.png" />
+</a>
+<a href="https://bsky.app/profile/marceloarmengot.bsky.social">
+  <img align="left" alt="Bluesky profile" width="18px" src="bluesky.png" />
+</a>
 
 
 <br />
