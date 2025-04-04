@@ -20,11 +20,11 @@
 - [x] 🐧 Linux lover.
 - [x] 🐃 GNU/GPL believer.
 - [x] 🚀 Currently working on computer vision projects...
-- [ ] 🔭 and learning Neural Networks (permanent learning), object tracking ...
+- [ ] 🔭 and learning about Neural Networks (permanent learning), multi-threading, modern C++, real-time, object tracking ...
 
 #### Other repos
 
-See <a href="https://gitlab.com/armengot/mosaix">gitlab</a> repo with old code from my PhD first work.
+See my <a href="https://gitlab.com/armengot/mosaix">gitlab</a> repo with old code from my PhD first work.
 
 #### CV
 
